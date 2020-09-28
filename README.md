@@ -1,4 +1,4 @@
-# Iscape_scripts
+# Iscape Audio Scripts
 
 Scripts I used in my Diploma Project "Iscape", in which I was responsible for the Sound Department. 
 [Check it out here!](https://leonhardrobin.itch.io/iscape)
